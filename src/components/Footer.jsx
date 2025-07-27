@@ -18,13 +18,13 @@ const Footer = () => {
         </div>
 
         <div className="flex space-x-6 text-xl text-orange-400">
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="hover:text-orange-300">
+          <a href="https://github.com/Pratiksha-514" target="_blank" rel="noopener noreferrer" className="hover:text-orange-300">
             <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/pratiksha-patil-12b5b032a/" target="_blank" rel="noopener noreferrer" className="hover:text-orange-300">
             <FaLinkedin />
           </a>
-          <a href="mailto:youremail@example.com" className="hover:text-orange-300">
+          <a href="mailto:patilpratiksha0346@gmail.com" className="hover:text-orange-300">
             <FaEnvelope />
           </a>
         </div>
