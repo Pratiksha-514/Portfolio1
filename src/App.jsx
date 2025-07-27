@@ -27,11 +27,11 @@ import cert5 from "./assets/11th1.jpg"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
  
 
-const About = React.lazy(() => import('./Components/About')) ;
-const Skills = React.lazy(() => import('./Components/Skills')) ;
-const Projects = React.lazy(() => import('./Components/Projects')) ;
-const Contact = React.lazy(() => import('./Components/Contact')) ;
-const Navbar = React.lazy(() => import('./Components/Navbar')) ;
+const About = React.lazy(() => import('./components/About')) ;
+const Skills = React.lazy(() => import('./components/Skills')) ;
+const Projects = React.lazy(() => import('./components/Projects')) ;
+const Contact = React.lazy(() => import('./components/Contact')) ;
+const Navbar = React.lazy(() => import('./components/Navbar')) ;
 
 
 
