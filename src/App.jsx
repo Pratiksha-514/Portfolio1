@@ -161,7 +161,7 @@ const handleViewCertificate = (imagePath) => {
             {["🏆 Secured 1st rank with a CGPA of 9.95 in the 1st year of Engineering at BSIOTR College.",
               "🧠 Scored a perfect 100/100 in Mathematics during the 1st year, showcasing a strong problem-solving mindset.",
               "🏅 Awarded a cash prize of ₹20,000 for securing 1st rank at BSIOTR College.",
-              "🥈 Ranked 2nd in the HSC Board Exams at Nutan Marathi Vidyalaya College, Pune.",
+              "🥈 Ranked 2nd in the HSC Board Exams at Nutan Marathe Vidyalaya College, Pune.",
               "🎨 Headed the Decoration & Cultural Committee in the Computer Department at BSIOTR.",
               "🌟 Served as the Hobby Club In-charge on the College Level Committee at BSIOTR."
             ].map((text, i) => (
